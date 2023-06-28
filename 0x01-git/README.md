@@ -1,2 +1,1 @@
-This is 0x01-git dir
-this is our update
+0x01-git dir
